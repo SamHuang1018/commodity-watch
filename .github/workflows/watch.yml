@@ -2,13 +2,11 @@ name: AirPods Pro 3 價格監控
 
 on:
   schedule:
-    # UTC 時間；每 15 分鐘一次，挑整點後幾分鐘，才抓得到「整點下殺」
-    # GitHub 的排程常會延遲 5–20 分鐘，這是正常的
-    - cron: "5,20,35,50 * * * *"
-  workflow_dispatch: {}          # 可以在 Actions 頁面手動按 Run workflow
+    - cron: "5,20,35,50 * * * *"   # UTC；每 15 分鐘，避開整點尖峰
+  workflow_dispatch: {}
 
 permissions:
-  contents: write                # 要把 ci_state.json commit 回 repo
+  contents: write
 
 concurrency:
   group: price-watch
@@ -23,19 +21,17 @@ jobs:
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
       STATE_FILE: ci_state.json
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+        with:
+          ref: main          # 永遠拿最新的價格紀錄，避免重複觸發時讀到舊狀態
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
-
       - name: 安裝套件
         run: pip install -r requirements.txt
-
       - name: 檢查價格
         run: python airpods_watch.py --once
-
       - name: 儲存狀態
         if: always()
         run: |
