@@ -1,0 +1,7 @@
+# 本機專用，不要上傳（state.json 裡有你的 ntfy 主題名稱）
+price/
+.momo_profile/
+debug/
+__pycache__/
+state.json
+price_log.csv
