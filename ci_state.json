@@ -1,7 +1,7 @@
 {
   "fail": {
     "PChome": 0,
-    "momo": 1
+    "momo": 0
   },
   "last_best": 5920,
   "lowest": {
@@ -31,12 +31,21 @@
     },
     {
       "platform": "PChome",
-      "pid": "DYAJCH-1900JGS34",
+      "pid": "DYAJCH-1900JGS4C",
       "name": "Apple 蘋果 AirPods Pro 3",
-      "price": 7590,
+      "price": 7690,
       "buyable": true,
       "status": "ForSale",
-      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS34"
+      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS4C"
+    },
+    {
+      "platform": "PChome",
+      "pid": "DYAJCH-A900J8LJC",
+      "name": "Apple 蘋果 AirPods Pro 3",
+      "price": 7499,
+      "buyable": true,
+      "status": "ForSale",
+      "url": "https://24h.pchome.com.tw/prod/DYAJCH-A900J8LJC"
     },
     {
       "platform": "PChome",
@@ -58,21 +67,12 @@
     },
     {
       "platform": "PChome",
-      "pid": "DYAJCH-1900JGS4C",
+      "pid": "DYAJCH-1900JYNBP",
       "name": "Apple 蘋果 AirPods Pro 3",
-      "price": 7690,
+      "price": 7590,
       "buyable": true,
       "status": "ForSale",
-      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS4C"
-    },
-    {
-      "platform": "PChome",
-      "pid": "DYAJCH-A900J8LJC",
-      "name": "Apple 蘋果 AirPods Pro 3",
-      "price": 7499,
-      "buyable": true,
-      "status": "ForSale",
-      "url": "https://24h.pchome.com.tw/prod/DYAJCH-A900J8LJC"
+      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JYNBP"
     },
     {
       "platform": "PChome",
@@ -85,12 +85,12 @@
     },
     {
       "platform": "PChome",
-      "pid": "DYAJCH-1900JYNBP",
+      "pid": "DYAJCH-1900JGS34",
       "name": "Apple 蘋果 AirPods Pro 3",
       "price": 7590,
       "buyable": true,
       "status": "ForSale",
-      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JYNBP"
+      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS34"
     },
     {
       "platform": "PChome",
@@ -109,6 +109,78 @@
       "buyable": false,
       "status": "OrderRefill",
       "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGSEC"
+    },
+    {
+      "platform": "momo",
+      "pid": "14740370",
+      "name": "保護套組【Apple】AirPods Pro 3",
+      "price": 6999,
+      "buyable": true,
+      "status": "庫存186",
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14740370"
+    },
+    {
+      "platform": "momo",
+      "pid": "14620292",
+      "name": "保護套組【Apple】AirPods Pro 3",
+      "price": 6999,
+      "buyable": true,
+      "status": "庫存195",
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14620292"
+    },
+    {
+      "platform": "momo",
+      "pid": "14770100",
+      "name": "【Apple】AirPods Pro 3 主動式降噪 藍牙耳機搭配MagSafe充電盒(MFHP4TA/A)",
+      "price": 6999,
+      "buyable": true,
+      "status": "庫存687",
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14770100"
+    },
+    {
+      "platform": "momo",
+      "pid": "15280283",
+      "name": "MAGEASY抗衝擊磁扣殼組【Apple】AirPods Pro 3",
+      "price": 7699,
+      "buyable": true,
+      "status": "庫存86",
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15280283"
+    },
+    {
+      "platform": "momo",
+      "pid": "14773132",
+      "name": "【Apple】AirPods Pro 3",
+      "price": 6999,
+      "buyable": true,
+      "status": "庫存356",
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14773132"
+    },
+    {
+      "platform": "momo",
+      "pid": "15328987",
+      "name": "保護套組【Apple】AirPods Pro 3",
+      "price": 6999,
+      "buyable": true,
+      "status": "庫存195",
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15328987"
+    },
+    {
+      "platform": "momo",
+      "pid": "15383247",
+      "name": "犀牛盾保護套組【Apple】AirPods Pro 3",
+      "price": 7699,
+      "buyable": true,
+      "status": "庫存12",
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15383247"
+    },
+    {
+      "platform": "momo",
+      "pid": "14795955",
+      "name": "六合一快充線組【Apple】AirPods Pro 3",
+      "price": 7099,
+      "buyable": true,
+      "status": "庫存356",
+      "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14795955"
     }
   ]
 }
