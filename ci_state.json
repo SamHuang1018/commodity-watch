@@ -13,39 +13,12 @@
   "latest": [
     {
       "platform": "PChome",
-      "pid": "DYAJCH-1900JGS34",
-      "name": "Apple 蘋果 AirPods Pro 3",
-      "price": 7058,
-      "buyable": true,
-      "status": "ForSale",
-      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS34"
-    },
-    {
-      "platform": "PChome",
-      "pid": "DYAJCH-1900JGS4C",
-      "name": "Apple 蘋果 AirPods Pro 3",
-      "price": 7151,
-      "buyable": true,
-      "status": "ForSale",
-      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS4C"
-    },
-    {
-      "platform": "PChome",
-      "pid": "DYAJCH-1900JGS6A",
+      "pid": "DYAJCH-1900JGS74",
       "name": "Apple 蘋果 AirPods Pro 3",
       "price": 7430,
       "buyable": true,
       "status": "ForSale",
-      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS6A"
-    },
-    {
-      "platform": "PChome",
-      "pid": "DYAJCH-1900JLHPE",
-      "name": "Apple 蘋果 AirPods Pro 3",
-      "price": 6965,
-      "buyable": true,
-      "status": "ForSale",
-      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JLHPE"
+      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS74"
     },
     {
       "platform": "PChome",
@@ -58,21 +31,39 @@
     },
     {
       "platform": "PChome",
-      "pid": "DYAJCH-1900JGS74",
+      "pid": "DYAJCH-1900JGS4C",
+      "name": "Apple 蘋果 AirPods Pro 3",
+      "price": 7151,
+      "buyable": true,
+      "status": "ForSale",
+      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS4C"
+    },
+    {
+      "platform": "PChome",
+      "pid": "DYAJCH-1900JLHPE",
+      "name": "Apple 蘋果 AirPods Pro 3",
+      "price": 6965,
+      "buyable": true,
+      "status": "ForSale",
+      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JLHPE"
+    },
+    {
+      "platform": "PChome",
+      "pid": "DYAJCH-1900JGS6A",
       "name": "Apple 蘋果 AirPods Pro 3",
       "price": 7430,
       "buyable": true,
       "status": "ForSale",
-      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS74"
+      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS6A"
     },
     {
       "platform": "PChome",
-      "pid": "DGAV0M-A900KL0BV",
-      "name": "AirPods Pro 3",
-      "price": 5920,
-      "buyable": false,
-      "status": "NotReady",
-      "url": "https://24h.pchome.com.tw/prod/DGAV0M-A900KL0BV"
+      "pid": "DYAJCH-1900JGS34",
+      "name": "Apple 蘋果 AirPods Pro 3",
+      "price": 7058,
+      "buyable": true,
+      "status": "ForSale",
+      "url": "https://24h.pchome.com.tw/prod/DYAJCH-1900JGS34"
     },
     {
       "platform": "PChome",
@@ -84,12 +75,21 @@
       "url": "https://24h.pchome.com.tw/prod/DYAJCH-A900J8LJC"
     },
     {
+      "platform": "PChome",
+      "pid": "DGAV0M-A900KL0BV",
+      "name": "AirPods Pro 3",
+      "price": 5920,
+      "buyable": false,
+      "status": "NotReady",
+      "url": "https://24h.pchome.com.tw/prod/DGAV0M-A900KL0BV"
+    },
+    {
       "platform": "momo",
       "pid": "14770100",
       "name": "【Apple】AirPods Pro 3 主動式降噪 藍牙耳機搭配MagSafe充電盒(MFHP4TA/A)",
       "price": 6900,
       "buyable": true,
-      "status": "庫存340",
+      "status": "庫存326",
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14770100"
     },
     {
@@ -98,7 +98,7 @@
       "name": "MAGEASY抗衝擊磁扣殼組【Apple】AirPods Pro 3",
       "price": 7511,
       "buyable": true,
-      "status": "庫存111",
+      "status": "庫存108",
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15280283"
     },
     {
@@ -107,7 +107,7 @@
       "name": "【Apple】AirPods Pro 3",
       "price": 6811,
       "buyable": true,
-      "status": "庫存240",
+      "status": "庫存232",
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14773132"
     },
     {
@@ -116,7 +116,7 @@
       "name": "六合一快充線組【Apple】AirPods Pro 3",
       "price": 6811,
       "buyable": true,
-      "status": "庫存240",
+      "status": "庫存232",
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14795955"
     },
     {
@@ -125,7 +125,7 @@
       "name": "犀牛盾保護套組【Apple】AirPods Pro 3",
       "price": 7411,
       "buyable": true,
-      "status": "庫存29",
+      "status": "庫存28",
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15383247"
     },
     {
@@ -134,7 +134,7 @@
       "name": "保護套組【Apple】AirPods Pro 3",
       "price": 6911,
       "buyable": true,
-      "status": "庫存210",
+      "status": "庫存204",
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14620292"
     },
     {
@@ -143,7 +143,7 @@
       "name": "保護套組【Apple】AirPods Pro 3",
       "price": 6911,
       "buyable": true,
-      "status": "庫存966",
+      "status": "庫存941",
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15328987"
     },
     {
@@ -152,7 +152,7 @@
       "name": "monocozzi霧透保護套掛繩組【Apple】AirPods Pro 3",
       "price": 7190,
       "buyable": true,
-      "status": "庫存18",
+      "status": "庫存17",
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=15823368"
     },
     {
@@ -161,7 +161,7 @@
       "name": "六合一清潔組【Apple】AirPods Pro 3",
       "price": 7011,
       "buyable": true,
-      "status": "庫存210",
+      "status": "庫存204",
       "url": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=14636804"
     },
     {
